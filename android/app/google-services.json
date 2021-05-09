@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475274319921",
+    "firebase_url": "https://ssip-hackathon-3dded.firebaseio.com",
+    "project_id": "ssip-hackathon-3dded",
+    "storage_bucket": "ssip-hackathon-3dded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475274319921:android:98d5699e82167a3c115d10",
+        "android_client_info": {
+          "package_name": "com.example.share_help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475274319921-e45ecblr9rnse0bvn82ph5712jqvkhen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ9dTb5sJqjqSyHZsaFdHOZ6LsR-WTaZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475274319921-e45ecblr9rnse0bvn82ph5712jqvkhen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
